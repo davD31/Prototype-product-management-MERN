@@ -25,7 +25,7 @@ Application web fullstack de gestion de produits avec interface moderne Chakra U
 
 ##  Fonctionnalités
 
-- CRUD complet : Create, Read, Update, Delete des produits
+- CRUD complet : Create, Read, Update, Delete
 - Interface avec Chakra UI v3
 - Mode sombre/clair
 - Notifications pour les actions utilisateur
