@@ -7,7 +7,7 @@ Application web fullstack de gestion de produits avec interface moderne Chakra U
 ![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?style=flat&logo=mongodb)
 ![Express](https://img.shields.io/badge/Express-5-000000?style=flat&logo=express)
 
-## 📸 Aperçu
+##  Aperçu
 
 ### Page d'Accueil
 <img width="1918" height="942" alt="image" src="https://github.com/user-attachments/assets/e02f5ca6-53f1-4dc7-a6b4-c1568ae20a0a" />
