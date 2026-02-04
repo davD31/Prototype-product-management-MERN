@@ -1,4 +1,4 @@
-# 🛍️ Product Management MERN
+# Prototype Product Management MERN
 
 Application web fullstack de gestion de produits avec interface moderne Chakra UI et architecture MERN complète.
 
@@ -10,52 +10,43 @@ Application web fullstack de gestion de produits avec interface moderne Chakra U
 ## 📸 Aperçu
 
 ### Page d'Accueil
-*[Ajoutez un screenshot ici]*
+<img width="1918" height="942" alt="image" src="https://github.com/user-attachments/assets/e02f5ca6-53f1-4dc7-a6b4-c1568ae20a0a" />
+
 
 ### Création de Produit
-*[Ajoutez un screenshot ici]*
+<img width="1918" height="941" alt="image" src="https://github.com/user-attachments/assets/9ae0c68b-d53e-4a84-9278-36608136cd35" />
 
-### Liste des Produits
-*[Ajoutez un screenshot ici]*
 
-### Mode Sombre
-*[Ajoutez un screenshot ici]*
+### Mode Sombre/Clair
+<img width="1916" height="942" alt="image" src="https://github.com/user-attachments/assets/75519baa-3eb1-4dab-9703-6fac4f074266" />
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/29d2e203-2c39-479e-94dc-f37e230f46e5" />
 
-## ✨ Fonctionnalités
 
-- ✅ **CRUD complet** : Create, Read, Update, Delete des produits
-- 🎨 **Interface moderne** avec Chakra UI v3
-- 🌓 **Mode sombre/clair** avec persistance
-- 📱 **Design responsive** adapté à tous les écrans
-- 🔔 **Notifications toast** pour les actions utilisateur
-- ⚡ **Gestion d'état** optimisée avec Zustand
-- 🔄 **Mise à jour en temps réel** de l'interface
-- 🎯 **Navigation fluide** avec React Router v6
 
-## 🛠️ Technologies
+##  Fonctionnalités
+
+- CRUD complet : Create, Read, Update, Delete des produits
+- Interface avec Chakra UI v3
+- Mode sombre/clair
+- Notifications pour les actions utilisateur
 
 ### Frontend
 - React 19.2.0
 - Chakra UI 3.30.0
-- Zustand (state management)
+- Zustand 
 - React Router DOM 6.28.0
 - React Hot Toast
-- Lucide React (icônes)
-- Vite 7.3.1 (build tool)
+- Lucide React
+- Vite 
 
 ### Backend
 - Node.js 24.12.0
 - Express 5.2.1
 - MongoDB 8.0.0
 - Mongoose 9.0.2
-- dotenv (variables d'environnement)
 
-## 📦 Installation
-
-### Prérequis
-- Node.js (v18 ou supérieur)
-- MongoDB Atlas account (ou MongoDB local)
-- npm ou yarn
-
-### Installation complète
-```bash
+### Utilisation
+Frontend 
+à partir du dossier frontend npm run dev http://localhost:5173/
+Backend
+à partir du dossier backend npm run dev http://localhost:5000
